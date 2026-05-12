@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+runtime/.env
+runtime/trace.json
+.venv/
+venv/
+.env.local
